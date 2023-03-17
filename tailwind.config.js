@@ -15,7 +15,10 @@ module.exports = {
     fontFamily: {
       julee: ['Julee', 'cursive'],
       climate: ['Climate Crisis', 'cursive']
-    }
+    },
+    backgroundImage: {
+      'wallpaper': "url('/public/assets/wallpaper.jpg')",
+    },
   },
   plugins: [],
 }
